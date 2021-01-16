@@ -1,5 +1,5 @@
 ---
-title: JD Gross Lab<br>@<br>UCSF
+title: Tian Lab<br>@<br>SUSTech
 layout: parallaxbanner
 banner: '/static/img/sfbay2.jpg'
 group: home
@@ -8,34 +8,17 @@ group: home
 
 
 <br>
-#### Welcome to the JD Gross lab at the **[University of California, San Francisco](http://www.ucsf.edu/)**    
+#### Welcome to the Tian lab of the **[Southern University of Science and Technology, Shenzhen, China](http://www.sustech.edu.cn/)**     
 <br>
-##### <i> Our lab studies the molecular structure of human and viral proteins to understand how they interact, control cellular function, and cause disease. </i>
+##### <i> Our lab studies the cellular and molecular mechanism on human neurological diseases using functional genomic CRISPRi/a screens and iPSC-derived cells. </i>
 <br>
 
 
 
 
 <div class="center">
-<br>
-<a class="twitter-timeline" data-chrome="nofooter noborders" data-width="600" data-height="250" data-theme="light" href="https://twitter.com/JDGrossLab?ref_src=twsrc%5Etfw">Tweets by JDGrossLab</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br><br>
-</div>
-
-
-<div class="divider"></div>
-
-<div class="row member">
-
-<div class="col s6 m6 center">
-<img class="home-logo" src='/static/img/UCSFlogo.png' alt="UCSF">
-<br> **[Department of Pharmaceutical Chemistry](https://pharmchem.ucsf.edu/)** 
-</div>
-
-<div class="col s6 m6 center">
-<img class="home-logo" src='/static/img/HARC.gif' alt="HARC"> 
-<br> **[HIV Asccesory & Regulator Complexes Center](https://harc.ucsf.edu/)** 
+<img class="home-logo" src='/static/img/sustech_logo.png' alt="SUSTech">
+<br> **[Department of Neuroscience, Medical Faculty](https://med.sustc.edu.cn/)** 
 </div>
 
 </div>
