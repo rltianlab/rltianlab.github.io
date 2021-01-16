@@ -1,7 +1,7 @@
 ---
 title: Tian Lab<br>@<br>SUSTech
 layout: parallaxbanner
-banner: '/static/img/sfbay2.jpg'
+banner: '/static/img/man_t.png'
 group: home
 ---
 
