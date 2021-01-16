@@ -1,12 +1,19 @@
 - name: Ruilin Tian, PhD
-  image: /static/img/people/jdg-new.jpg
+  image: /static/img/people/tian.jpg
   position: Assistant Professor, Principal Investigator
   email: tianrl@sustech.edu.cn
-  interest: 
+  background: 2020.6 – 2020.12 Postdoc Adviser: Dr. Martin Kampmann University of California, San Francisco, CA, USA
+              2015.9 – 2020.6  Ph.D.in Biophysics Adviser: Dr. Martin Kampmann University of California, San Francisco, CA, USA
+              2011.9 – 2015.6  B.S. in Biological Sciences Peking University, Beijing, China
+  HONORS AND AWARDS:
+              2016  Tau consortium fellowship by the Tau consortium
+              2015  Outstanding Undergraduate Award of Peking University
+              2015  Outstanding Undergraduate Award of Beijing, China
+              2014  National Scholarship by Chinese government
+              2013  May Fourth Scholarship by Peking University           
 
 - name: Na Liu
-  image: /static/img/people/victor.jpg
-  position: Research Assistan <br> **[Tetrad Program](https://tetrad.ucsf.edu)**
+  image: /static/img/people/na.jpg
+  position: Research Assistant 
   email: 21718336@zju.edu.cn
-  interest: Biochemical studies of host-virus protein interactions.
   background: Master of Medicine, Zhejiang University
