@@ -8,9 +8,8 @@
 
 - title: Cellular and molecular mechanisms of human neurological diseases
   
-  body: |
-    
-Tian et al. presented a CRISPR interference-based platform for genetic screens in human iPSC-derived neurons in the previous [research](https://doi.org/10.1016/j.neuron.2019.07.014). This platform enables systematic elucidation of gene function in human neurons and reveals neuron-specific roles of genes for survival, transcriptomics states, and morphology.
+  body: |  
+    Tian et al. presented a CRISPR interference-based platform for genetic screens in human iPSC-derived neurons in the previous [research](https://doi.org/10.1016/j.neuron.2019.07.014). This platform enables systematic elucidation of gene function in human neurons and reveals neuron-specific roles of genes for survival, transcriptomics states, and morphology.
     <br>
     <br>
   image: /static/img/iPSC-derived_neurons.jpg
