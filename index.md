@@ -1,7 +1,7 @@
 ---
-title: Tian Lab<br>@<br>SUSTech
+title: RL Tian Lab<br>@<br>SUSTech
 layout: parallaxbanner
-banner: '/static/img/collage_v3_full.png'
+banner: '/static/img/man_t.jpg'
 group: home
 ---
 
