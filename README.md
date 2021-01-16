@@ -1,5 +1,5 @@
-# New JD Gross lab website
-New website for the Gross Lab at UCSF - built on Jekyll for Github Pages and modeled off of the [Frost Lab](http://frostlab.org) and [Fraser Lab](http://fraserlab.com) websites.
+# New Tian lab at SUSTech website
+New website for the Tian Lab at SUSTech - built on Jekyll for Github Pages and modeled off of the [Frost Lab](http://frostlab.org) and [Fraser Lab](http://fraserlab.com) websites.
 
-Code developed by Benjamin Barad @benbarad. Modified by Jeff Mugridge @jeffmugridge.
-# jdgrosslab.github.io
+Code developed by Na Liu @liunanaliu. Modified by Ruilin Tian @tian-lab-sustech.
+# tianlabsustech.github.io
