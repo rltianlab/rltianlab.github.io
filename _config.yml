@@ -1,5 +1,5 @@
-name: "Tian Lab"
-description: "Tian Lab at SUSTech"
+name: "RL Tian Lab"
+description: "RL Tian Lab at SUSTech"
 baseurl: ""
 gems: [jekyll-paginate]
 paginate: 10
