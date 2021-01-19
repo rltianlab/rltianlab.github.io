@@ -21,9 +21,8 @@ group: contact
 <div class="col m3">
   
   <h4>Lab Address </h4>
-  UCSF Genentech Hall <br>
-  Box 2280, Room S516 <br>
-  600 16th Street <br>
+  Medical Department <br>
+  SUSTech <br>
   Shenzhen, China, 518005<br>
 <br>
 <br>
