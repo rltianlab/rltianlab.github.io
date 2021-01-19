@@ -4,9 +4,5 @@
   {{content}}      
 </div>
 
-<div class="container">
-  {{twitter}}      
-</div>
-
 
 {% include footer.html %}
