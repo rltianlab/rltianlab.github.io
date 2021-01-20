@@ -4,7 +4,14 @@ layout: parallaxbanner
 banner: /static/img/UCSF_MBsunrise.jpg
 group: contact
 ---
+<div class="section">
+<div class="row">
 
+<div class="col m9">
+
+  <iframe src="/contact/baidumap.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>
 
 
 
@@ -16,7 +23,7 @@ group: contact
 <div class="col m3">
   
   <h4>Lab Address </h4>
-  Medical Department <br>
+  Medical School <br>
   SUSTech <br>
   Shenzhen, China, 518005<br>
 <br>
@@ -24,8 +31,8 @@ group: contact
 
   <h4>Ruilin Tian </h4>
   tianrl@sustech.edu.cn<br>
-  tel: 415-514-4402 <br>
-  fax: 415-502-8298<br>
+  tel: 0755-8801-8043 <br>
+
   
 
 
