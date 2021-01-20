@@ -1,5 +1,5 @@
 ---
-title: RL Tian Lab<br>@<br>SUSTech
+title: Tian Lab<br>@<br>SUSTech
 layout: parallaxbanner
 banner: '/static/img/man_t.png'
 group: home
