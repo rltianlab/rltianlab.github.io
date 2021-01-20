@@ -26,16 +26,6 @@
 </head>
 <body>
 
-<div id="ucsf-banner-nav" class="arial navy">
-      <div class="top-header-container row">
-          <ul class="menu">
-            <li class="first"><a href="http://www.sustech.edu.cn/">Southern University of Science and Technology</a></li>
-            <li><a href="http://www.med.sustc.edu.cn/">SUSTech Medical Center</a></li>
-            <li><a href="http://www.sustech.edu/search" title="">Search SUSTech</a></li>
-            <li><a href="http://www.sustech.edu/about">About SUSTech</a></li>
-          </ul>
-      </div>
-    </div>
 
 
   <nav class="black" role="navigation">
