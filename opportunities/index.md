@@ -1,7 +1,7 @@
 ---
 title: Opportunties
 layout: parallaxbanner
-banner: /static/img/UCSF_GHstairs.jpg
+banner: /static/img/opportunity_header.jpg
 group: opportunities
 ---
 
