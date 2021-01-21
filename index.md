@@ -19,12 +19,12 @@ group: home
 <div class="row member">
 
 <div class="col s6 m6 center">
-<img class="home-logo" src='/static/img/Sustech_logo_orange.png' alt="SUSTech">
+<img class="home-logo" src='/static/img/Sustech_logo_orange.jpg' alt="SUSTech">
 <br> **[Southern University of Science and Technology](https://www.sustech.edu.cn/)** 
 </div>
 
 <div class="col s6 m6 center">
-<img class="home-logo" src='/static/img/med_school_logo.png' alt="SUSTech Medical School"> 
+<img class="home-logo" src='/static/img/med_school_logo.jpg' alt="SUSTech Medical School"> 
 <br> **[SUSTech Medical School](https://med.sustech.edu.cn/)** 
 </div>
 
