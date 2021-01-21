@@ -22,5 +22,11 @@
     <br>
   image: /static/img/research_Picture3.png
        
-   
+- title: lncRNA functions in human brain cells
+
+  body: |
+    lncRNA are highly tissue-specific and play important roles in regulating various cellular processes. Their functions in human brain cells, including neurons and glia cells, are not well studied. Therefore, we are interested in systematically characterizing lncRNA functions in human neurons, astrocytes and microglia using our CRISPR screening platform.
+    <br>
+    <br>
+  image: /static/img/research_Picture4.png
 
