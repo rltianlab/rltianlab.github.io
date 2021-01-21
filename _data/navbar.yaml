@@ -22,3 +22,7 @@
   link: "/opportunities"
   group: opportunities
   
+- name: news
+  link: "/news"
+  group: news
+  
