@@ -8,9 +8,9 @@ group: home
 
 
 <br>
-#### Welcome to the Tian lab at the **[SUSTech Medical School](http://www.sustech.edu.cn/)**     
+#### Welcome to the Tian lab at **[SUSTech Medical School](http://www.sustech.edu.cn/)**!     
 <br>
-#### <i> Our lab studies the cellular and molecular mechanism on human neurological diseases using functional genomic CRISPRi/a screens and iPSC-derived cells.
+#### <i> Our lab studies the cellular and molecular mechanisms of human neurological diseases using CRISPR-based functional genomics tools
 
 
 
@@ -19,7 +19,7 @@ group: home
 <div class="row member">
 
 <div class="col s6 m6 center">
-<img class="home-logo" src='/static/img/Sustech_logo_Orange.png' alt="SUSTech">
+<img class="home-logo" src='/static/img/Sustech_logo_orange.png' alt="SUSTech">
 <br> **[Southern University of Science and Technology](https://www.sustech.edu.cn/)** 
 </div>
 
