@@ -9,7 +9,7 @@ group: contact
 
 <div class="col m9">
 
-  <iframe src="/contact/baidumap.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe src="/static/img/sustech_map.jpg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 </div>
 
