@@ -1,18 +1,27 @@
-- title: CRISPR-based functional genomics technology development in the brain
+- title: CRISPR-based functional genomics platforms
+
   
   body: |
-    We developed [website](http://www.crisprbrain.org/) to discover the data commons for functional genomics screens in differentiated human cell types. Such screens can query a large set of genes (such as all ~20,000 protein-coding human genes) for their contribution to a cellular function of interest. These provide an overview of different modes of screening and highlights examples of recent CRISPR screens with relevance to neurological disease.
-    <br>
-    <br>
-  image: /static/img/cblink.jpg
-
-- title: Cellular and molecular mechanisms of human neurological diseases
-  
-  body: |  
-    Tian et al. presented a CRISPR interference-based platform for genetic screens in human iPSC-derived neurons in the previous [research](https://doi.org/10.1016/j.neuron.2019.07.014). This platform enables systematic elucidation of gene function in human neurons and reveals neuron-specific roles of genes for survival, transcriptomics states, and morphology.
+    We are developing innovative functional genomics platforms by combining CRISPR screening with other cutting-edge technologies including iPSC differentiation, single cell sequencing, automated high-content imaging and in vivo disease modeling. Using these tools, we aim to uncover cellular and molecular mechanisms of human neurological diseases and develop novel therapeutic strategies
     <br>
     <br>
   image: /static/img/iPSC-derived_neurons.jpg
+
+- title: Stress response in human neurons
+  
+  body: |  
+    Neurons, as one of the longest-living cell types in the human body, are challenged by various stresses in aging and disease. Due to their post-mitotic nature, neurons do not have the ability to ‘self-renew’ by cell division. Therefore, robust stress response mechanisms are required for neurons to maintain long-term health. We are interested in understanding how neurons response to various cellular stresses in normal and disease conditions and how we could prevent neurons from stress-induced degeneration in diseases. In particular, we are interested in understanding oxidative stress response in neurons and how ferroptosis is regulated in human neurons.
+    <br>
+    <br>
+  image: /static/img/research_Picture2.png
+  
+- title: Glia-neuron interaction
+
+  body: | 
+    Glia cells, including astrocytes and microglia, play important roles in regulating neuronal survival and supporting neuronal functions. However, under diseases conditions (such as neurodegenerative diseases), glia cells could become neurotoxic. We are interested in identifying key factors that determine the neuroprotective or neurotoxic effect of glia cells to neurons using imaging-based CRISPR screening.
+    <br>
+    <br>
+  image: /static/img/research_Picture3.png
        
    
 
