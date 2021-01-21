@@ -19,10 +19,6 @@ We offer [Masters and PhD programs](https://med.sustech.edu.cn/educat.html?lang=
 ### Postdocs
 We offer highly competitive packages for postdocs. Please contact [tianrl@sustech.edu.cn](tianrl@sustech.edu.cn) if you are interested.
    
-###  
-###
-
-
 
 <div class="divider"></div>
 
