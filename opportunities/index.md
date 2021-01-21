@@ -8,14 +8,16 @@ group: opportunities
 
 <div class="divider"> </div>
 <br>
-### Interested in joining the Tian lab? 
- We offer Masters and PhD programs in Biology at the medical faculty, SUSTech! Candidates can contact Ruilin Tian directly before formally applying to the university. We welcome applicants from all backgrounds.
+### Joining us? 
+We are looking for highly-motivated new lab members (research assistants, Masters students, PhD students, visiting students and post-docs) to join our team! Contact tianrl@sustech.edu.cn if you are interested.
+
+### Masters and PhD students
+We offer Masters and PhD programs (https://med.sustech.edu.cn/educat.html?lang=zh-cn) at SUSTech Medical school. Candidates could contact Ruilin Tian directly before application. We welcome applicants from all backgrounds
+
 
 <br>
 ### Postdoctoral Positions
-
-We seek to understand the cellular and molecular mechanism of human neurological diseases via human iPSC-derived cells in the brain and CRISPR-based functional genomics technology. Systems of interest include neuroscience and high through-put sequence. Expertise in cell culture, molecular cloning, and bioinformatics will be a benefit.
-
+We offer highly competitive packages for postdocs. Please contact tianrl@sustech.edu.cn if you are interested.
 Applications materials, including CV, motivation and contact information for two references should be sent to:
 
 tianrl@sustech.edu.cn
