@@ -8,7 +8,7 @@ group: home
 
 
 <br>
-#### Welcome to the Tian lab at **[SUSTech Medical School](http://www.sustech.edu.cn/)**!     
+#### Welcome to the Tian lab at **[SUSTech Medical School !](http://www.sustech.edu.cn/)**     
 <br>
 #### <i> Our lab studies the cellular and molecular mechanisms of human neurological diseases using CRISPR-based functional genomics tools
 
