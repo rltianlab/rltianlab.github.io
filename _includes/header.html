@@ -18,7 +18,9 @@
 
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-
+  {% if page.group == 'news' %}
+  <link rel="alternate" type="application/atom+xml" title="Tian Lab News Feed" href="/news.xml">
+  {% endif %}
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/ico" href="{{site.baseurl}}/static/img/favicon.ico">
@@ -29,7 +31,7 @@
 
   <nav class="black" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Tian Lab</a>
+      <a id="logo-container" href="/" class="brand-logo">Tian Lab</a>
       <ul class="right hide-on-med-and-down">
         {% for link in site.data.navbar %}
           {% if page.group == link.group %}
@@ -39,7 +41,7 @@
           {% endif %}
         {% endfor %}
       </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+      <a href="/" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
     </div>
   </nav>
 
