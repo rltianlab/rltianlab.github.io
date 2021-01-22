@@ -1,7 +1,7 @@
 ---
 title: The Tian lab begins!
 author: RL Tian, N Liu
-layout: postlist
+layout: post
 group: news
 ---
  <img src="/static/img/news/2021-01-19_news1.jpg" alt="RT Day 1" class="img-fluid">
