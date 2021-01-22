@@ -34,7 +34,6 @@
   <nav class="black" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="/#" class="brand-logo">Tian Lab</a>
-      <a href="https://med.sustech.edu.cn/faculty/detail/id/1258.html?lang=zh-cn"><img class="inline-block navb-icon" src="/static/img/sustech_logo_white.svg"></a>
       <ul class="right hide-on-med-and-down">
         {% for link in site.data.navbar %}
           {% if page.group == link.group %}
@@ -44,7 +43,7 @@
           {% endif %}
         {% endfor %}
       </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+      <a href="/#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
     </div>
   </nav>
 
