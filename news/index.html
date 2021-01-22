@@ -1,20 +1,20 @@
 ---
 title: News from the Tian Lab
-layout: parallaxbanner
+layout: postlist
 group: news
 ---
 
-{% for research in site.data.research %}
+{% for news in site.data.news %}
 {% capture thecycle %}{% cycle 'left', 'right' %}{% endcapture %}
 
-<div class="research-section">
+<div class="news-section">
 
-<img class="research-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{research.image}}" alt = "Descriptive Figure">
+<img class="news-img {{thecycle}} responsive-img" src = "{{site.baseurl}}{{news.image}}" alt = "Descriptive Figure">
 
-<div class="research-text">
+<div class="news-text">
 
-  <h5 class="header"><a class="cyan-text lighten-1">{{research.title}}</a></h5>
-  <p>{{research.body | markdownify}}</p> 
+  <h5 class="header"><a class="cyan-text lighten-1">{{news.title}}</a></h5>
+  <p>{{news.body | markdownify}}</p> 
 
 </div>
 </div>
