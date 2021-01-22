@@ -30,7 +30,7 @@ group: contact
 <br>
 
   <h4>Ruilin Tian </h4>
-  tianrl@sustech.edu.cn<br>
+  <email>tianrl@sustech.edu.cn</email><br>
   tel: 0755-8801-8043 <br>
 
   
