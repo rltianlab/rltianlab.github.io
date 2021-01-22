@@ -22,6 +22,10 @@
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/ico" href="{{site.baseurl}}/static/img/favicon.ico">
+  
+  {% if page.group == 'news' %}
+  <link rel="alternate" type="application/atom+xml" title="Tian Lab News Feed" href="/news.xml">
+  {% endif %}
 
 </head>
 <body>
@@ -29,7 +33,8 @@
 
   <nav class="black" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Tian Lab</a>
+      <a id="logo-container" href="/#" class="brand-logo">Tian Lab</a>
+      <a href="https://med.sustech.edu.cn/faculty/detail/id/1258.html?lang=zh-cn"><img class="inline-block navb-icon" src="/static/img/sustech_logo_white.svg"></a>
       <ul class="right hide-on-med-and-down">
         {% for link in site.data.navbar %}
           {% if page.group == link.group %}
