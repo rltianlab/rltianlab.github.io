@@ -1,6 +1,6 @@
 ---
 title: The Tian lab begins!
-author: RL Tian, N Liu
+author: Ruilin Tian
 layout: post
 group: news
 ---
@@ -8,4 +8,4 @@ group: news
 
  <img src="/static/img/news/2021-01-19_news2.jpg" alt="NL Day 1" class="img-fluid">
 
- First experiments in the Tian lab!! Many thanks to [Deng lab at Shenzhen Bay Laboratory(SZBL)](https://www.deng-lab.net/news) for kindly providing us space and reagents while we are waiting for our own lab space.
+ First experiments in the Tian lab!! Many thanks to [Deng lab at Shenzhen Bay Laboratory(SZBL)](https://www.deng-lab.net) for kindly providing us space and reagents while we are waiting for our own lab space.
