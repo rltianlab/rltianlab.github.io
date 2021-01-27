@@ -1,3 +1,10 @@
+- title: PIKfyve inhibition blocks endolysosomal escape of α-synuclein fibrils and spread of α-synuclein aggregation
+  authors: Stephanie, S.,Chen, M., Bax, M., <b>Tian, R.</b>,..., Kampmann, M.
+  journal: bioRxiv
+  year: 2020
+  doi: 2021.01.21.427704
+  num: 16
+  
 - title: BRD2 inhibition blocks SARS-CoV-2 infection in vitro by reducing transcription of the host cell receptor ACE2
   authors: <b>Tian, R.</b>, Samelson, A., Rezelj, V., Chen, M., Ramadoss, G., Guo, X., ... ,<b>Liu, N.</b> ,...,.Kampmann, M.
   journal: bioRxiv
@@ -75,7 +82,7 @@
   num: 05
   
 - title: Dual gene activation and knockout screen reveals directional dependencies in genetic networks
-  authors: Boettcher, M., Tian, R., Blau, J. A., Markegard, E., Wagner, <b>R. T.</b>, Wu, D., ... & McManus, T.
+  authors: Boettcher, M., <b>Tian, R.</b>, Blau, J. A., Markegard, E., Wagner, R. T., Wu, D., ... & McManus, T.
   journal: Nature biotechnology
   year: 2018
   pmid: 29334369
