@@ -25,7 +25,7 @@ group: home
 
 <div class="col s6 m6 center">
 <img class="home-logo" src='/static/img/med_school_logo.jpg' alt="School of Medicine, SUSTech"> 
-<br> **[SUSTech Medical School](https://med.sustech.edu.cn/)** 
+<br> **[School of Medicine, SUSTech](https://med.sustech.edu.cn/)** 
 </div>
 
 </div>
