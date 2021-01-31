@@ -1,5 +1,5 @@
 ---
-title: Tian Lab<br>@<br>SUSTech
+title: Tian Lab<br>@<br>*SUSTech*{: style="color: orange"}
 layout: parallaxbanner
 banner: '/static/img/research_header_reduced_size.jpg'
 group: home
