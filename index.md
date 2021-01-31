@@ -1,5 +1,5 @@
 ---
-title: Tian Lab<br>@<br>*SUSTech*{: style="color: orange"}
+title: Tian Lab<br>@<br>SUSTech
 layout: parallaxbanner
 banner: '/static/img/research_header_reduced_size.jpg'
 group: home
@@ -8,7 +8,7 @@ group: home
 
 
 <br>
-#### Welcome to the Tian lab at **[SUSTech Medical School !](http://www.sustech.edu.cn/)**     
+#### Welcome to the Tian lab in the **[School of Medicine, SUSTech!](https://med.sustech.edu.cn/faculty/detail/id/1259.html?lang=en-us)**     
 <br>
 #### <i> Our lab studies the cellular and molecular mechanisms of human neurological diseases using CRISPR-based functional genomics tools
 
