@@ -1,3 +1,10 @@
+- title: A comprehensive phenotypic CRISPR-Cas9 screen of the ubiquitin pathway uncovers roles of ubiquitin ligases in mitosis
+  authors: Hundley FV, Sanvisens Delgado N, Marin HC, Carr KL, <b>Tian R</b>, Toczyski DP
+  journal: Molecular Cell
+  year: 2020
+  pmid: 33539788
+  num: 17
+
 - title: PIKfyve inhibition blocks endolysosomal escape of α-synuclein fibrils and spread of α-synuclein aggregation
   authors: Stephanie, S.,Chen, M., Bax, M., <b>Tian, R.</b>,..., Kampmann, M.
   journal: bioRxiv
@@ -21,7 +28,8 @@
 
 - title:  CRISPR-based screens uncover determinants of immunotherapy response in multiple myeloma
   authors: Ramkumar, P., Abarientos, B., <b>Tian, R.</b>, Seyler, M., Leong, T., Chen, M., ... & Kampmann, M.
-  journal: Blood advances. 2020
+  journal: Blood advances
+  year: 2020
   pmid: 32589729
   num: 13
   
