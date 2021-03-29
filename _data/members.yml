@@ -1,13 +1,19 @@
-- name: Ruilin Tian, PhD
+- name: Ruilin Tian (田瑞琳), PhD
   image: /static/img/people/tian.jpg
   position: Assistant Professor, Principal Investigator
   email: tianrl@sustech.edu.cn
   background: Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. BS in Biological Sciences Peking University, Beijing, China.        
 
-- name: Na Liu
+- name: Na Liu （刘娜）
   image: /static/img/people/na.jpg
   position: Research Assistant 
   email: 21718336@zju.edu.cn
   background: Master of Medicine, Zhejiang University
+  
+- name: Jianhui Wang （王建慧）
+  image: /static/img/people/jianhui.jpg
+  position: Research Assistant 
+  email: wangjianhui1994@126.com
+  background: Master of Science, SUSTech
 
 
