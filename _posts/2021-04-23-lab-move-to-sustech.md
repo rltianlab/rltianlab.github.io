@@ -1,11 +1,11 @@
 ---
-title: Lab move to SUSTech
+title: Lab moved back to SUSTech
 author: Ruilin Tian
 layout: post
 group: news
 ---
 
- **Lab moved back to SUSTech after 3 months at Shenzhen Bay Laboratory**
+ **Our lab moved back to SUSTech after 3 months at Shenzhen Bay Laboratory**
  
  A new start!
  
