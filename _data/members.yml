@@ -2,7 +2,7 @@
   image: /static/img/people/tian.jpg
   position: Assistant Professor, Principal Investigator
   email: tianrl@sustech.edu.cn
-  background: Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. <p></p>BS in Biological Sciences Peking University, Beijing, China       
+  background: Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. <p>BS in Biological Sciences Peking University, Beijing, China</p>       
 
 - name: Na Liu （刘娜）
   image: /static/img/people/na.jpg
@@ -26,8 +26,7 @@
   image: /static/img/people/yupu.jpg
   position: Visiting Student
   email: ypwang@uchicago.edu
-  background: PhD candidate, University of Chicago
-  Bachelor of Science, Peking University, Beijing, China
+  background: PhD candidate, University of Chicago. <p>Bachelor of Science, Peking University, Beijing, China</p>
   
 
 
