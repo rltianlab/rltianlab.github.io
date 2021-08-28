@@ -28,5 +28,21 @@
   email: 12031244@mail.sustech.edu.cn
   background: Master of Medicine, Shanxi Provincial Peoples's Hospital
   
-
+- name: Siqi Bi （闭思琪）
+  image: /static/img/people/siqi.jpg
+  position: Master's Student
+  email: 12133096@sustech.edu.cn
+  background: Bachelor of Science, Wuhan Institute of Technology
+  
+- name: Yaping Wu （巫雅萍）
+  image: /static/img/people/yaping.jpg
+  position: Master's Student
+  email: 12133160@mail.sustech.edu.cn
+  background: Bachelor of Science, Jilin University
+  
+- name: Xuelin Chen （陈雪临）
+  image: /static/img/people/xuelin.jpg
+  position: Master's Student
+  email: 12133102@mail.sustech.edu.cn
+  background: Bachelor of Science, Northwest Agriculture & Forestry University
 
