@@ -25,7 +25,7 @@ BBQ
 
 Diving
 
-** Work hard and play hard! **
+** We work hard and play hard! **
   
 
 
