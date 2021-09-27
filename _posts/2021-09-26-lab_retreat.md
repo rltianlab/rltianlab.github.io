@@ -9,19 +9,19 @@ group: news
 
 We had lots of fun by the sea!
  
-<img src="/static/img/news/2021_retreat_science_activity.jp2" width="50%" alt="2021_retreat_science_activity" class="img-fluid">
+<img src="/static/img/news/2021_retreat_science_activity.jpg" width="50%" alt="2021_retreat_science_activity" class="img-fluid">
 
 Science activity
 
-<img src="/static/img/news/2021_retreat_group_photo.jp2" width="50%" alt="2021_retreat_group_photo" class="img-fluid">
+<img src="/static/img/news/2021_retreat_group_photo.jpg" width="50%" alt="2021_retreat_group_photo" class="img-fluid">
  
 Hiking by the sea
 
-<img src="/static/img/news/2021_retreat_group_photo3.jp2" width="50%" alt="2021_retreat_group_photo3" class="img-fluid">
+<img src="/static/img/news/2021_retreat_group_photo3.jpg" width="50%" alt="2021_retreat_group_photo3" class="img-fluid">
 
 BBQ
 
-<img src="/static/img/news/2021_retreat_group_photo2.jp2" width="50%" alt="2021_retreat_group_photo2" class="img-fluid">
+<img src="/static/img/news/2021_retreat_group_photo2.jpg" width="50%" alt="2021_retreat_group_photo2" class="img-fluid">
 
 Diving
 
