@@ -9,7 +9,7 @@ group: news
 
 We had lots of fun by the sea!
  
-<img src="/static/img/news/2021_retreat_science_activity.jpg" width="50%" alt="2021_retreat_science_activity" class="img-fluid">
+<img src="/static/img/news/2021_retreat_science_activity .jpg" width="50%" alt="2021_retreat_science_activity" class="img-fluid">
 
 Science activity
 
