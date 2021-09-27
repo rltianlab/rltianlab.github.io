@@ -5,7 +5,7 @@ layout: post
 group: news
 ---
 
-**2021 Tian lab retreat at Xichong (西涌) **
+**2021 Tian lab retreat at Xichong (西涌)**
 
 We had lots of fun by the sea!
  
