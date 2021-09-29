@@ -25,7 +25,7 @@ We had lots of fun by the sea!
 
 **Diving**
 
-**We work hard and play hard! **
+**In the Tian lab, we work hard and play hard!**
   
 
 
