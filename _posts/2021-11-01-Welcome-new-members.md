@@ -9,7 +9,7 @@ group: news
 
  Jiangshan Zhan (詹江山) -- visiting Postdoc
 
- <img src="/static/img/people/Jiangshan.jpg" width="50%" alt="jiangshan" class="img-fluid">
+ <img src="/static/img/people/Jiangshan.jpeg" width="50%" alt="jiangshan" class="img-fluid">
 
 
  Qianqian Ying (应茜茜) -- visiting student
@@ -19,7 +19,7 @@ group: news
 
  Zijuan Tong (童紫娟) -- visiting student
 
- <img src="/static/img/people/Zijuan.jpg" width="50%" alt="zijuan" class="img-fluid">
+ <img src="/static/img/people/Zijuan.jpeg" width="50%" alt="zijuan" class="img-fluid">
 
 
 
