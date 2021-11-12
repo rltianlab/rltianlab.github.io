@@ -15,13 +15,7 @@
   position: Research Assistant 
   email: 11610113@mail.sustech.edu.cn
   background: Bachelor of Science, SUSTech
-  
-- name: Yupu Wang （王玉璞）
-  image: /static/img/people/yupu.jpg
-  position: Visiting Student
-  email: ypwang@uchicago.edu
-  background: PhD candidate, University of Chicago. <p>Bachelor of Science, Peking University, Beijing, China</p>
-  
+ 
 - name: Xing Li （李星）
   image: /static/img/people/Xing.jpg
   position: PhD Student
@@ -45,4 +39,24 @@
   position: Master's Student
   email: 12133102@mail.sustech.edu.cn
   background: Bachelor of Science, Northwest Agriculture & Forestry University
+  
+- name: Jiangshan Zhan （詹江山）
+  image: /static/img/people/Jiangshan.jpg
+  position: Visiting Postdoc
+  email: zhanjiangshan_glia@163.com
+  background: PhD, Ludwig Maximilian University of Munich, Germany 
+  
+- name: Qianqian Ying （应茜茜）
+  image: /static/img/people/Qianqian.jpg
+  position: Visiting Student
+  email: ying77@webmail.hzau.edu.cn
+  background: Bachelor of Science, Huazhong Agricultural University
 
+- name: Zijuan Tong （童紫娟）
+  image: /static/img/people/Zijuan.jpg
+  position: Visiting Student
+  email: tongzijuan@foxmail.com
+  background: Bachelor of Science, Huazhong Agricultural University
+  
+
+  
