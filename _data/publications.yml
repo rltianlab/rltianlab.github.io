@@ -1,19 +1,27 @@
+
+- title: BRD2 inhibition blocks SARS-CoV-2 infection by reducing transcription of the host cell receptor ACE2
+  authors: Samelson, A., Tran, Q.D., Robinot, R., ... ,<b>Wang, J.</b>, ... , <b>Tian, R.*</b> & Kampmann, M*. 
+  journal: Nature Cell Biology
+  year: 2022
+  doi: 10.1038/s41556-021-00821-8
+  num: 19
+
 - title: Genome-wide CRISPRi/a screens in human neurons link lysosomal failure to ferroptosis
-  authors: <b>Tian, R.</b>, Abarientos, A., Hong, J., ... , Kampmann, M. 
+  authors: <b>Tian, R.*</b>, Abarientos, A., Hong, J., ... , Kampmann, M*. 
   journal: Nature Neuroscience
   year: 2021
   doi: 10.1038/s41593-021-00862-0
   num: 18
   
 - title: A comprehensive phenotypic CRISPR-Cas9 screen of the ubiquitin pathway uncovers roles of ubiquitin ligases in mitosis
-  authors: Hundley FV, Sanvisens Delgado N, Marin HC, Carr KL, <b>Tian R</b>, Toczyski DP
+  authors: Hundley FV, Sanvisens Delgado N, Marin HC, Carr KL, <b>Tian R</b>, Toczyski DP*
   journal: Molecular Cell
   year: 2020
   pmid: 33539788
   num: 17
 
 - title: PIKfyve inhibition blocks endolysosomal escape of α-synuclein fibrils and spread of α-synuclein aggregation
-  authors: Stephanie, S.,Chen, M., Bax, M., <b>Tian, R.</b>,..., Kampmann, M.
+  authors: Stephanie, S.,Chen, M., Bax, M., <b>Tian, R.</b>,..., Kampmann, M.*
   journal: bioRxiv
   year: 2020
   doi: 10.1101/2021.01.21.427704
