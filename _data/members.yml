@@ -16,6 +16,12 @@
   email: weitz@connect.hku.hk
   background: PhD, School of Biomedical Sciences, Li Ka Shing Faculty of Medicine,The University of Hong Kong, Hong Kong SAR, China.
   
+- name: Jiangshan Zhan （詹江山）
+  image: /static/img/people/Jiangshan.jpeg
+  position: Visiting Postdoc
+  email: zhanjiangshan_glia@163.com
+  background: PhD, Ludwig Maximilian University of Munich, Germany 
+  
 - name: Xing Li （李星）
   image: /static/img/people/Xing.jpg
   position: PhD Student, 2020
@@ -75,12 +81,6 @@
   position: Master's Student, 2022
   email: 12233084@mail.sustech.edu.cn
   background: Bachelor of Science, University of Science and Technology of China
-  
-- name: Jiangshan Zhan （詹江山）
-  image: /static/img/people/Jiangshan.jpeg
-  position: Visiting Postdoc
-  email: zhanjiangshan_glia@163.com
-  background: PhD, Ludwig Maximilian University of Munich, Germany 
  
 - name: Kun Li （李坤）
   image: /static/img/people/Kun.jpg
