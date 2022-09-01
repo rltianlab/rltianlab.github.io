@@ -64,6 +64,18 @@
   email: 12133079@mail.sustech.edu.cn
   background: Bachelor of Science, Northeastern University
   
+- name: Xiang Lei （雷翔）
+  image: /static/img/people/Xiang.jpeg
+  position: Master's Student, 2022
+  email: 12233059@mail.sustech.edu.cn
+  background: Bachelor of Science, Huazhong Agricultural University
+  
+- name: Miao Ouyang （欧阳淼）
+  image: /static/img/people/Miao.jpeg
+  position: Master's Student, 2022
+  email: 12233084@mail.sustech.edu.cn
+  background: Bachelor of Science, University of Science and Technology of China
+  
 - name: Jiangshan Zhan （詹江山）
   image: /static/img/people/Jiangshan.jpeg
   position: Visiting Postdoc
