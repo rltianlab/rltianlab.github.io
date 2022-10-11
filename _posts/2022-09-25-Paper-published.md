@@ -8,7 +8,9 @@ Our Perspective paper, titled "***How many authors does it take to publish a hig
 
 This work is in collaboration with Prof.Hai Rao and others.
 
-<a href='https://www.molbiolcell.org/doi/10.1091/mbc.E22-04-0140'>Read more here</a>
+<a href='/static/papers/mbc.e22-04-0140.pdf'>PDF here</a>
+
+
 
  
 
