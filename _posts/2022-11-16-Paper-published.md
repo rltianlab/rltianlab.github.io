@@ -9,10 +9,10 @@ group: news
  <img src="/static/img/news/20221116_CDpaper.jpg" width="50%" alt="paper" class="img-fluid"> 
 
  
- The work is published in Cell Discovery. <a href='/static/papers/2022-CD.pdf'>Read more here</a>
+ This work is published in Cell Discovery. <a href='/static/papers/2022-CD.pdf'>Read more here</a>
 
 
- Congratulations to Jianhui, who is the co-first author of this paper!
+ **Congratulations to Jianhui, who is the co-first author of this paper!**
 
  
 
