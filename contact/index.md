@@ -25,7 +25,8 @@ group: contact
   <h4>Lab Address </h4>
   606, Building #7, 
   Innovation Park
-  School of Medicine <br>
+ 
+  School of Medicine, <br>
   SUSTech <br>
   Shenzhen, China, 518005<br>
 <br>
