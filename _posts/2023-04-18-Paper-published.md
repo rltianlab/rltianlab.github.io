@@ -9,7 +9,7 @@ group: news
  <img src="/static/img/news/graphic_abstract.png" width="50%" alt="paper" class="img-fluid"> 
 
  
- Congratulations to Kun, Miao and Jiangshan!
+**Congratulations to Kun, Miao and Jiangshan!**
 
  
 
