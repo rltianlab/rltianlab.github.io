@@ -3,24 +3,12 @@
   position: Assistant Professor, Principal Investigator
   email: tianrl@sustech.edu.cn
   background: Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. <p>BS in Biological Sciences Peking University, Beijing, China</p>       
-  
-- name: Risheng Lin （林日昇）
-  image: /static/img/people/Risheng.jpg
-  position: Research Assistant
-  email: linrs@mail.sustech.edu.cn
-  background: Master of Science，SUSTech
 
 - name: Tianzi Wei（魏天资）
   image: /static/img/people/Tianzi.png
   position: Postdoc
   email: weitz@connect.hku.hk
   background: PhD, School of Biomedical Sciences, Li Ka Shing Faculty of Medicine,The University of Hong Kong, Hong Kong SAR, China.
-  
-- name: Jiangshan Zhan （詹江山）
-  image: /static/img/people/Jiangshan.jpeg
-  position: Visiting Postdoc
-  email: zhanjiangshan_glia@163.com
-  background: PhD, Ludwig Maximilian University of Munich, Germany 
   
 - name: Xing Li （李星）
   image: /static/img/people/Xing.jpg
@@ -46,6 +34,12 @@
   email: ying77@webmail.hzau.edu.cn
   background: Bachelor of Science, Huazhong Agricultural University
   
+- name: Risheng Lin （林日昇）
+  image: /static/img/people/Risheng.jpg
+  position: PhD Student, 2023
+  email: 12331435@mail.sustech.edu.cn
+  background: Master of Science，SUSTech
+
 - name: Siqi Bi （闭思琪）
   image: /static/img/people/siqi.jpg
   position: Master's Student, 2021
@@ -85,7 +79,7 @@
 - name: Wenting Lu （陆雯婷）
   image: /static/img/people/Wenting.jpg
   position: Master's Student, 2023
-  email: 475199914@qq.com
+  email: 12333008@mail.sustech.edu.cn
   background: Bachelor of Science, Tongji University
  
 - name: Kun Li （李坤）
