@@ -22,7 +22,11 @@ group: publications
 {% endif %}
 <!-- <div style="font-size: 130% !important;"> {{publication.num}}. <a class="cyan-text lighten-1" href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}">{{publication.title}}</a> </div> -->
 
-<div style="font-size: 120% !important; margin-left:35px">   {{publication.authors}}. <b><i> {{publication.journal}} </i></b>  &nbsp; &nbsp;<b>{{publication.year}} </b></div>
+<div style="font-size: 120% !important; margin-left:35px">  
+    {{publication.authors}}  
+    <hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;">  
+    <b><i>{{publication.journal}}</i></b> &nbsp; &nbsp;<b>{{publication.year}}</b>  
+</div>  
 
 </div>
 <div class="divider" style="clear: both;"></div>
