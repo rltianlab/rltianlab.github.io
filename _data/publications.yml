@@ -1,12 +1,19 @@
+- title: Multimodal CRISPR screens uncover DDX39B as a global repressor of A-to-I RNA editing
+  authors: <b>Tianzi Wei#</b>, Jiaxuan Li#, <b>Xiang Lei#</b>, Risheng Lin, Qingyan Wu, Zhenfeng Zhang, Shimin Shuai*, <b>Ruilin Tian*</b>
+  journal: biorxiv
+  year: 2025
+  doi: 10.1101/2024.11.22.624788
+  num: 27
+  
 - title: Large-scale CRISPRi screens link metabolic stress to glioblastoma chemoresistance
-  authors: <b>Xing Li#</b>, <b>Wansong Zhang#</b>, <b>Yitong Fang</b>, <b>Tianhu Sun</b>, Jian Chen and <b>Ruilin Tian*</b>
+  authors: <b>Xing Li#</b>, <b>Wansong Zhang#</b>, Yitong Fang, Tianhu Sun, Jian Chen and <b>Ruilin Tian*</b>
   journal: Journal of Translational Medicine
   year: 2025
   doi: 10.1186/s12967-025-06261-4
   num: 26
   
 - title: Unlocking Glioblastoma Vulnerabilities with CRISPR-Based Genetic Screening
-  authors: <b>Yitong Fang</b>, <b>Xing Li</b> and <b>Ruilin Tian*</b>
+  authors: <b>Yitong Fang</b>, Xing Li and <b>Ruilin Tian*</b>
   journal: International Journal of Molecular Sciences
   year: 2024
   doi: 10.3390/ijms25115702
@@ -48,7 +55,7 @@
   num: 20
   
 - title: BRD2 inhibition blocks SARS-CoV-2 infection by reducing transcription of the host cell receptor ACE2
-  authors: Samelson, A., Tran, Q.D., Robinot, R., ... ,<b>Wang, J.</b>, ... , <b>Tian, R.*</b> & Kampmann, M*
+  authors: Samelson, A., Tran, Q.D., Robinot, R., ... , <b>Tian, R.*</b> & Kampmann, M*
   journal: Nature Cell Biology
   year: 2022
   doi: 10.1038/s41556-021-00821-8
