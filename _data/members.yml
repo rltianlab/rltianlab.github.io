@@ -4,12 +4,6 @@
   email: tianrl@sustech.edu.cn
   background: Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. <p>BS in Biological Sciences Peking University, Beijing, China</p>       
 
-- name: Tianzi Wei（魏天资）
-  image: /static/img/people/Tianzi.png
-  position: Senior Research Fellow
-  email: weitz@connect.hku.hk
-  background: PhD, School of Biomedical Sciences, Li Ka Shing Faculty of Medicine,The University of Hong Kong, Hong Kong SAR, China.
-
 - name: Jianhui Wang （王建慧）
   image: /static/img/people/jianhui.jpg
   position: PhD Student, 2022 
@@ -39,12 +33,6 @@
   position: Master's Student, 2022
   email: 12233059@mail.sustech.edu.cn
   background: Bachelor of Science, Huazhong Agricultural University
-  
-- name: Miao Ouyang （欧阳淼）
-  image: /static/img/people/Miao.jpeg
-  position: Master's Student, 2022
-  email: 12233084@mail.sustech.edu.cn
-  background: Bachelor of Science, University of Science and Technology of China
 
 - name: Wenting Lu （陆雯婷）
   image: /static/img/people/Wenting.jpg
@@ -64,8 +52,8 @@
   email: 12433119@mail.sustech.edu.cn
   background: Bachelor of Science, Southern Medical University
   
-- name: Yitong Fang （方奕童）
-  image: /static/img/people/yitong.jpeg
-  position: Undergraduate Student, 2020
-  email: 12010236@mail.sustech.edu.cn
-  background: Clinical Medicine，SUSTech
+- name: Miao Ouyang （欧阳淼）
+  image: /static/img/people/Miao.jpeg
+  position: Research Assistant
+  email: 12233084@mail.sustech.edu.cn
+  background: Bachelor of Science, University of Science and Technology of China
