@@ -1,3 +1,10 @@
+- title: "Mapping cell-type- and age-dependent neuronal vulnerability through genome-wide in vivo CRISPRi screens in the mouse brain"
+  authors: <b>Risheng Lin</b>, <b>Zeting Ke</b>, <b>Jianhui Wang</b>, <b>Tianzi Wei</b>, <b>Lifu Zhang</b>, <b>Yitong Fang</b> and <b>Ruilin Tian*</b>
+  journal: Neuron
+  year: 2026
+  doi: 10.1016/j.neuron.2026.08.006
+  num: 33
+
 - title: "A pooled CRISPR-based neuronal activity screen links TMEM50A-dependent MVB function to synaptic integrity and remote memory"
   authors: <b>Jianhui Wang#</b>, Meiqi Liu#, Yiming Chen#, Jiancheng Chen, <b>Xin Zhong</b>, Zilong Wang*, Xian Jiang* and <b>Ruilin Tian*</b>
   journal: Cell Reports
