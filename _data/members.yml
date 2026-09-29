@@ -6,9 +6,9 @@
 
 - name: Jianhui Wang （王建慧）
   image: /static/img/people/jianhui.jpg
-  position: PhD Student, 2022 
+  position: Postdoc, 2026 
   email: wangjianhui1994@126.com
-  background: Master of Science, SUSTech
+  background: PhD, SUSTech
  
 - name: Zijuan Tong （童紫娟）
   image: /static/img/people/Zijuan.jpeg
@@ -32,6 +32,12 @@
   image: /static/img/people/Xiang.jpeg
   position: PhD Student, 2025
   email: 12233059@mail.sustech.edu.cn
+  background: Master of Science，SUSTech
+    
+- name: Miao Ouyang （欧阳淼）
+  image: /static/img/people/Miao.jpeg
+  position: PhD Student, 2026
+  email: 12233084@mail.sustech.edu.cn
   background: Master of Science，SUSTech
 
 - name: Wenting Lu （陆雯婷）
@@ -69,9 +75,3 @@
   position: Master's Student, 2025
   email: 12533016@mail.sustech.edu.cn
   background: Bachelor of Science, GuangXi University
-  
-- name: Miao Ouyang （欧阳淼）
-  image: /static/img/people/Miao.jpeg
-  position: Research Assistant
-  email: 12233084@mail.sustech.edu.cn
-  background: Master of Science，SUSTech
